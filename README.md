@@ -16,3 +16,5 @@ Here are a few mazes obtained using the code:
 
 <img src="https://github.com/arvindf216/Random-Maze-Generator/assets/138092643/aa664542-e7a5-43d3-b3fa-9dafdb29849c" width="300" height="300">
 
+
+Scope for future development: To create a tool that will assist in navigating the maze by guiding a snake from the entry point to the destination using mouse clicks. Additionally, I hope to create a maze solver that can work through mazes of any size or complexity.
