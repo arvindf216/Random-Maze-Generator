@@ -14,4 +14,5 @@ Here are a few mazes obtained using the code:
 
 <img src="https://github.com/arvindf216/Random-Maze-Generator/assets/138092643/b2a7a5fe-6d84-49d3-9939-fb157e68e341" width="300" height="300">
 
+<img src="https://github.com/arvindf216/Random-Maze-Generator/assets/138092643/b2a7a5fe-6d84-49d3-9939-fb157e68e341" width="300" height="300">
 
